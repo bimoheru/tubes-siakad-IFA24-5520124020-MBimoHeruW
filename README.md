@@ -10,7 +10,7 @@ Aplikasi ini dibagi menjadi 3 area utama berdasarkan peran pengguna (Role):
 
 ### 1. Umum (Autentikasi)
 
-- **Halaman Login (`/login`)**: Pintu masuk utama bagi semua pengguna (Admin, Dosen, Mahasiswa). Dilengkapi dengan validasi kesalahan masukan langsung di bawah kolom input teks dengan pesan bahasa Indonesia, serta fitur tombol tampilkan/sembunyikan kata sandi.
+- **Halaman Login (`/login`)**: Pintu masuk utama bagi semua pengguna (Admin, Dosen, Mahasiswa). Dilengkapi dengan validasi kesalahan masukan langsung di bawah kolom input teks dengan pesan bahasa Indonesia, serta fitur tombol tampilkan/sembunyikan kata sandi.    
 
 ### 2. Panel Admin & Dosen
 
@@ -37,3 +37,49 @@ Mahasiswa memiliki akses ke area khusus untuk mengelola rencana studi mandiri:
 
 ---
 
+<div align="center">
+<h1>Hosting Link : https://</h1>
+
+# SIAKAD
+
+### Sistem Informasi Akademik
+
+<p>SIAKAD ini Adalah Sistem Informasi berbasis web untuk mengelola dan memberikan informasi data akademik perguruan tinggi.  </p>
+
+</div>
+
+---
+
+## 📋 Tentang Proyek
+
+**SIAKAD** (Sistem Informasi Akademik) adalah aplikasi berbasis web menggunakan framework LARAVEL yang dikembangkan untuk memenuhi **Tugas Besar Mata Kuliah Pemrograman Web II**. Aplikasi ini dirancang untuk mendigitalkan proses manajemen akademik di perguruan tinggi. Aplikasi ini mempermudah mahasiswa, dosen, dan staf administrasi (admin) dalam mengelola dan meilhat data perkuliahan, jadwal, serta rencana studi secara daring dan real-time.
+
+---
+
+## 📌 Informasi User
+
+<div align="center">
+
+| Username          | Role                     |
+| ----------------- | ------------------------ |
+| admin@unsur.ac.id | Admin                    |
+| test@unsur.ac.id  | Mahasiswa                |
+
+
+</div>
+
+## 👥 Pembuat
+
+<div align="center">
+
+| Nama                       | NPM        |
+| -------------------------- | ---------- |
+| Muhammad Bimo Heru Wahyono | 5520124028 |
+
+</div>
+
+---
+
+Proyek ini dibuat untuk memenuhi keperluan akademik **Tugas Besar Mata Kuliah Pemrograman Web II**.
+
+---
